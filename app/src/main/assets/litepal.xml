@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="xjj_weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.example.administrator.xjjweather.db.Province" />
+        <mapping class="com.example.administrator.xjjweather.db.City" />
+        <mapping class="com.example.administrator.xjjweather.db.County" />
+    </list>
+
+</litepal>
